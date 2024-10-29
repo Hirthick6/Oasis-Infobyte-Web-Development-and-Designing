@@ -7,12 +7,12 @@ There are 3 task given to complete. After completing all tasks, if everything lo
 A Calculator created under the virtual internship program of Oasis Infobyte. <br>
 
 ## Task2 - Tribute Page
-A tribute page created under the virtual internship program of Oasis Infobyte. <br>\
+A tribute page created under the virtual internship program of Oasis Infobyte. <br>
 
 ## Task3 - Todo webapp
 A TO-DO app created under the virtual internship program of Oasis Infobyte. <br>
 
-- ### Team Members
+- ### Project Member
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBuZXZ0aGhqNTFtd3Q0MnBrbXUwcjBjNjI4M3JqcTFkaGw4eXdoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wXFdM9bohG4bqK2qOT/giphy.gif
 )
 
