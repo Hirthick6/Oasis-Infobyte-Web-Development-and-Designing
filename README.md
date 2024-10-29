@@ -5,12 +5,15 @@ There are 3 task given to complete. After completing all tasks, if everything lo
 
 ## Task1 - Calculator
 A Calculator created under the virtual internship program of Oasis Infobyte. <br>
-[Live](https://devvsakib.github.io/oasis-infobyte/Task1)
 
 ## Task2 - Tribute Page
-A tribute page created under the virtual internship program of Oasis Infobyte. <br>
-[Live](https://devvsakib.github.io/oasis-infobyte/Task2)
+A tribute page created under the virtual internship program of Oasis Infobyte. <br>\
 
 ## Task3 - Todo webapp
 A TO-DO app created under the virtual internship program of Oasis Infobyte. <br>
-[Live](https://devvsakib.github.io/oasis-infobyte/Task3)
+
+- ### Team Members
+![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBuZXZ0aGhqNTFtd3Q0MnBrbXUwcjBjNjI4M3JqcTFkaGw4eXdoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wXFdM9bohG4bqK2qOT/giphy.gif
+)
+
+###  If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com)
